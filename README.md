@@ -2,5 +2,6 @@
 A gui for nfiq algorithem 
 
 
-About:
+# About:
+
 This tool runs scores of NFIQ1 and saves all the results in excel file.
