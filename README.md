@@ -12,7 +12,7 @@ NBIS - https://www.nist.gov/services-resources/software/nist-biometric-image-sof
 
 Ubuntu 
 
-Python recommend 3.6.9 can work on 3.5.2 but the erroe massage doesn't work well
+Python recommend 3.6.9 can work on 3.5.2 but the error massage doesn't work well
 
 Tkinter 8.6
 
