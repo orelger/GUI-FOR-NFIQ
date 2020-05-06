@@ -10,6 +10,9 @@ The app saves all the results in excel file.
 # Requirements:
 NBIS - https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis
 
-Ubuntu
+Ubuntu 
 
-Tkinter
+Python recommend 3.6.9 can work on 3.5.2 but the erroe massage doesn't work well
+
+Tkinter 8.6
+
