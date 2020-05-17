@@ -8,7 +8,7 @@ This tool runs fingerprint pictures and gives us score between 1 to 5 and 0 to 1
 The app saves all the results in excel file.
 
 ## Requirements:
-NBIS - https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis
+[For more information about how to install NBIS](https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis)
 
 Ubuntu 
 
