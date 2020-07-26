@@ -1,5 +1,7 @@
 # GUI-FOR-NFIQ1-AND-NFIQ2
-A gui for nfiq1 and nfiq2  
+A gui for nfiq1 and nfiq2 
+
+![BgPIC](https://github.com/orelger/GUI-FOR-NFIQ/blob/master/MainScreen.PNG)
 
 
 ## About:
